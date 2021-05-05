@@ -33,7 +33,6 @@ public:
             else
                 sign=1;
         }
-            
         while(divi>=disr)
         {
             divi-=disr;
